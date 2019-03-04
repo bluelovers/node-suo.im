@@ -1,0 +1,17 @@
+{
+  "name": "suo.im",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cross-fetch": "^3.0.1"
+  },
+  "devDependencies": {
+    "@bluelovers/tsconfig": "^1.0.1"
+  }
+}
