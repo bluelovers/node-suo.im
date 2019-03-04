@@ -1,4 +1,4 @@
-import { createShortURL } from '../index';
+import createShortURL from '../index';
 
 createShortURL('https://www.npmjs.com/search?q=suo.im')
 	.then(function (ret)

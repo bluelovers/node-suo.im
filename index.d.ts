@@ -3,6 +3,9 @@
  */
 declare function suoim(url: URL | string): Promise<string>;
 declare namespace suoim {
+    var default: typeof suoim;
+}
+declare namespace suoim {
     const api_site = "http://suo.im/api.php";
     interface IOptions {
         /**

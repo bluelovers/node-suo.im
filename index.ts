@@ -112,4 +112,6 @@ namespace suoim {
 
 }
 
+suoim.default = suoim;
+
 export = suoim;
