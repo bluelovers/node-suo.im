@@ -1,10 +1,28 @@
 {
   "name": "suo.im",
   "version": "1.0.0",
-  "description": "",
+  "description": "create suo.im short url / 生成 suo.im 短網址",
+  "keywords": [
+    "short",
+    "short-url",
+    "site-service",
+    "suo.im",
+    "url"
+  ],
+  "homepage": "https://github.com/bluelovers/node-suo.im#readme",
+  "bugs": {
+    "url": "https://github.com/bluelovers/node-suo.im/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluelovers/node-suo.im.git"
+  },
   "license": "ISC",
   "author": "",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
